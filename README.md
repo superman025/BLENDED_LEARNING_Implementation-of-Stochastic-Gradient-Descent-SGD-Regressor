@@ -82,8 +82,9 @@ plt.show()
 ```
 
 ## Output:
-<img width="1037" height="349" alt="Screenshot 2026-02-23 142224" src="https://github.com/user-attachments/assets/7ac943f2-c5fd-4d3a-bc4a-7c426af38470" />
-<img width="1083" height="417" alt="Screenshot 2026-02-23 142246" src="https://github.com/user-attachments/assets/45e7b38e-43ae-4fd4-8524-130f9f07ffc8" />
+<img width="996" height="400" alt="Screenshot 2026-03-30 233008" src="https://github.com/user-attachments/assets/55609adb-5561-4911-8e75-609c5435a5af" />
+<img width="944" height="618" alt="Screenshot 2026-03-30 233031" src="https://github.com/user-attachments/assets/c0a8d874-aec6-418e-8655-fcc505c9b3cd" />
+
 
 
 
